@@ -1,0 +1,12 @@
+.tipo_letra{
+    color: red;
+    font-size: 50px;
+    font-family: Arial;
+}
+
+#id-mensaje{
+    color: #1c294e;
+    font-size: 40px;
+    font-family: Algerian;
+    background: #40ff65;
+}
